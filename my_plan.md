@@ -51,7 +51,7 @@
 
 ---
 ## Создать *плейлист* для вечерних посиделок
-
+![Фото](321.jpg)
 1. Bill Evans and Jim Hall - Turn Out The Stars
 
 2. Billie Holiday - I'll Be Seeing You
